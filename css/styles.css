@@ -28,11 +28,11 @@ a:hover {
 }
 
 .btn-danger {
-    background-color:#f44d3c;
+    background-color:#0000ff;
 }
 
 .text-danger, a.text-danger {
-    color:#f44d3c;
+    color:#0000ff;
 }
 
 .btn-huge {
@@ -171,7 +171,7 @@ section {
 }
 
 #section7 {
-	background-color: #f44d3c;
+	background-color: #0000ff;
 	color: #f6f6f6;
 	min-height:130px;
 	padding-top:40px;
