@@ -147,12 +147,12 @@ section {
 }
   
 #section4 {
-	background-color: rgba(0,0,0,0.7);
+	background-color: #f6f6f6;
 	color:#444;
 }
   
 #section2 {
-	background-color: #f6f6f6;
+	background-color: rgba(0,0,0,0.7);
 	min-height: 150%;
 }
 
