@@ -148,11 +148,12 @@ section {
   
 #section4 {
 	background-color: #f6f6f6;
+	min-height: 150%;
 	color:#444;
 }
   
 #section2 {
-	background-color: #fff;
+	background-color: rgba(0,0,0,0.7);
 }
 
 #section3 {
