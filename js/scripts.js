@@ -1,3 +1,6 @@
+/* color change var */
+var hue = 'rgb(' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.random() * 256)) + ',' + (Math.floor(Math.random() * 256)) + ')';
+
 /* activate scrollspy menu */
 $('body').scrollspy({
   target: '#navbar-collapsible',
