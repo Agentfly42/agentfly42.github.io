@@ -144,6 +144,7 @@ section {
 	background-color: rgba(255,0,0,0.7);
 	color:#fff;
 	font-family: 'Bitter', serif;
+	color: expression(hue);
 }
  
 #section2 {
